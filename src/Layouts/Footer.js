@@ -14,7 +14,7 @@ class Footer extends React.Component {
         <div className="footer__bottom">
           <p>주소 : 충남 공주시 우금티로 531</p>
           <p>대표번호 : 010-1234-5678</p>
-          <p>서비스 문의 : costar011@gmail.com</p>
+          <p>서비스 문의 : yerim.dev@gmail.com</p>
           <p>제휴 문의 : qkdgywls0503@gmail.com</p>
         </div>
       </div>
