@@ -4,10 +4,11 @@ class Header extends React.Component {
   render() {
     return (
       <div className="Header">
-        <div className="Header">
-          <span onClick={this._ScrollMM01}>드라마</span>
-          <span onClick={this._ScrollBottom}>제휴 문의</span>
+        <div className="Header__Scroll">
+          <span onClick={this._ScrollMM01}>클래식</span>
+          <span onClick={this._ScrollBottom}>음악의 발전</span>
         </div>
+        <div className="title">Class Music</div>
       </div>
     );
   }
