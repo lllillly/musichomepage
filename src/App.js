@@ -10,6 +10,12 @@ class App extends React.Component {
         <Route path="/" component={Header} />
         <div className="app__MenuBar">
           <span>Menu</span>
+          <div className="app__Menus">
+            <span>르네상스</span>
+            <span>바로크</span>
+            <span></span>
+            <span></span>
+          </div>
         </div>
         <div className="app__Desc">
           <h1>클래식 음악의 역사 정보 사이트</h1>
