@@ -23,6 +23,7 @@
 
 - #0b0b0b
 - #FFFFFF
+- #808e9b
 
 ### React Project Needs Babel Packpage
 
