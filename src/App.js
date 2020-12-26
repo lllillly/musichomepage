@@ -13,8 +13,8 @@ class App extends React.Component {
           <div className="app__Menus">
             <span>르네상스</span>
             <span>바로크</span>
-            <span></span>
-            <span></span>
+            <span>ㅇㅏ잉</span>
+            <span>테스트중~~</span>
           </div>
         </div>
         <div className="app__Desc">
