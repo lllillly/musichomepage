@@ -8,7 +8,9 @@ class App extends React.Component {
     return (
       <div>
         <Route path="/" component={Header} />
-        <div>CONTENT</div>
+        <div className="app__MenuBar">
+          <span>Menu</span>
+        </div>
         <Route path="/" component={Footer} />
       </div>
     );
