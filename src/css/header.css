@@ -1,25 +1,19 @@
 .Header {
   width: 100%;
-  height: 100%;
 }
 
-.Header .Header__Subject {
-  margin-top: 5px;
-  margin-left: 8px;
-
-  border-bottom: 1px solid #3498db;
+.Header .Header__01 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
 }
 
-.Header .Header__Subject span {
-  width: 100%;
-
-  font-size: 30px;
+.Header .Header__01 span {
   font-weight: 600;
-}
-
-.Header .Header__Title {
-  margin-top: 5px;
-
-  font-size: 25px;
-  font-weight: 400;
+  color: #0b0b0b;
+  padding: 5px 0px 5px 5px;
+  margin-bottom: 5px;
+  border-bottom: 2px solid #855a5a;
+  font-size: 12px;
 }
