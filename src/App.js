@@ -11,6 +11,9 @@ class App extends React.Component {
         <div className="app__MenuBar">
           <span>Menu</span>
         </div>
+        <div className="app__Desc">
+          <h1>클래식 음악의 역사 정보 사이트</h1>
+        </div>
         <Route path="/" component={Footer} />
       </div>
     );
