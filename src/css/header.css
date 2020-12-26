@@ -6,14 +6,17 @@
   display: flex;
   flex-direction: row;
   align-items: center;
-  justify-content: space-between;
+  justify-content: space-around;
+
+  margin-top: 10px;
 }
 
 .Header .Header__01 span {
   font-weight: 600;
   color: #0b0b0b;
-  padding: 5px 0px 5px 5px;
+
   margin-bottom: 5px;
+
   border-bottom: 2px solid #855a5a;
-  font-size: 12px;
+  font-size: 15px;
 }

@@ -26,6 +26,7 @@ class App extends React.Component {
             <Route exact path="/mm04" component={MM04} />
             <Route exact path="/mm05" component={MM05} />
             <Route exact path="/mm06" component={MM06} />
+            <Route exact path="/footer" component={Footer} />
           </div>
         </Router>
       </div>
