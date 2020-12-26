@@ -5,6 +5,7 @@
 .Header .Header__01 {
   display: flex;
   flex-direction: row;
+
   align-items: center;
   justify-content: space-around;
 
@@ -17,6 +18,11 @@
 
   margin-bottom: 5px;
 
-  border-bottom: 2px solid #855a5a;
+  border-bottom: 3px solid #747d8c;
   font-size: 15px;
+  transition: 0.5s;
+}
+
+.Header .Header__01 span:hover {
+  color: #a4b0be;
 }
