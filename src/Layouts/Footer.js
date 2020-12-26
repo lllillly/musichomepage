@@ -7,9 +7,9 @@ class Footer extends React.Component {
         <div className="footer__top">
           <p>사업자 등록번호 : 128-394-29342</p>
           <p>통신판매업신고번호 : 제 2020-충남공주-1002</p>
-          <p>대표이사 : 빵</p>
+          <p>대표이사 : 방효진,정예림</p>
           <p>법인명 : (주)music</p>
-          <p>개인정보관리책임자 : 빵</p>
+          <p>개인정보관리책임자 : 방효진,정예림</p>
         </div>
         <div className="footer__bottom">
           <p>주소 : 충남 공주시 우금티로 531</p>
