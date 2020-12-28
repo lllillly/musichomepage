@@ -4,8 +4,13 @@
 }
 
 .MM01 .MM01__title {
-  margin-left: 5px;
+  margin-left: 10px;
 
-  font-size: 20px;
+  font-size: 25px;
   font-weight: 600;
+}
+
+.MM01 .MM01__desc {
+  font-size: 15px;
+  margin-left: 5px;
 }
