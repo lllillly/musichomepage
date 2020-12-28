@@ -1,0 +1,16 @@
+.MM02 {
+  width: 100%;
+  height: 100%;
+}
+
+.MM02 .MM02__title {
+  margin-left: 10px;
+
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.MM02 .MM02__desc {
+  font-size: 15px;
+  margin-top: 10px;
+}
