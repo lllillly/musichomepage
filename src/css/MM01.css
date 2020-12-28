@@ -22,11 +22,17 @@
 }
 
 .MM01 .MM01__desc .MM01__composer__introduce {
-  font-size: 14px;
+  font-size: 15px;
   margin-left: 35px;
 }
 
 .MM01 .MM01__point {
   font-size: 18px;
   margin-left: 25px;
+  font-weight: 500;
+}
+
+.MM01 .MM01__point__desc {
+  font-size: 15px;
+  margin-left: 35px;
 }
