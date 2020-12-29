@@ -1,0 +1,38 @@
+.MM06 {
+  width: 100%;
+  height: 100%;
+}
+
+.MM06 .MM06__title {
+  margin-left: 10px;
+
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.MM06 .MM06__desc {
+  font-size: 15px;
+  margin-top: 10px;
+}
+
+.MM06 .MM06__composer {
+  font-size: 18px;
+  margin-left: 25px;
+  font-weight: 500;
+}
+
+.MM06 .MM06__desc .MM06__composer__introduce {
+  font-size: 15px;
+  margin-left: 35px;
+}
+
+.MM06 .MM06__point {
+  font-size: 18px;
+  margin-left: 25px;
+  font-weight: 500;
+}
+
+.MM06 .MM06__point__desc {
+  font-size: 15px;
+  margin-left: 35px;
+}

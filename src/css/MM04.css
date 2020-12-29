@@ -1,0 +1,38 @@
+.MM04 {
+  width: 100%;
+  height: 100%;
+}
+
+.MM04 .MM04__title {
+  margin-left: 10px;
+
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.MM04 .MM04__desc {
+  font-size: 15px;
+  margin-top: 10px;
+}
+
+.MM04 .MM04__composer {
+  font-size: 18px;
+  margin-left: 25px;
+  font-weight: 500;
+}
+
+.MM04 .MM04__desc .MM04__composer__introduce {
+  font-size: 15px;
+  margin-left: 35px;
+}
+
+.MM04 .MM04__point {
+  font-size: 18px;
+  margin-left: 25px;
+  font-weight: 500;
+}
+
+.MM04 .MM04__point__desc {
+  font-size: 15px;
+  margin-left: 35px;
+}

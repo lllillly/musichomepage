@@ -14,3 +14,25 @@
   font-size: 15px;
   margin-top: 10px;
 }
+
+.MM02 .MM02__composer {
+  font-size: 18px;
+  margin-left: 25px;
+  font-weight: 500;
+}
+
+.MM02 .MM02__desc .MM02__composer__introduce {
+  font-size: 15px;
+  margin-left: 35px;
+}
+
+.MM02 .MM02__point {
+  font-size: 18px;
+  margin-left: 25px;
+  font-weight: 500;
+}
+
+.MM02 .MM02__point__desc {
+  font-size: 15px;
+  margin-left: 35px;
+}
