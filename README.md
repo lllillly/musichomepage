@@ -46,8 +46,6 @@
 - yarn add webpack-cli -D
 - yarn add webpack-dev-server -D
 
-# Date - 2020 10 02 Camel Drama Project
-
 ## 참고
 
 - 르네상스 https://namu.wiki/w/%EB%A5%B4%EB%84%A4%EC%83%81%EC%8A%A4

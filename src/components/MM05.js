@@ -7,9 +7,47 @@ class MM05 extends React.Component {
         <div className="MM05__title">인상주의(1870~1915)</div>
         <div className="MM05__desc">
           <div className="MM05__composer">주요 작곡가</div>
-          <div className="MM05__composer__introduce"></div>
+          <div className="MM05__composer__introduce">
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+          </div>
         </div>
         <div className="MM05__point">특징</div>
+        <div className="MM05__point__desc">
+          <p></p>
+          <p></p>
+          <p></p>
+          <p></p>
+          <p></p>
+          <p></p>
+          <p></p>
+          <p></p>
+          <p></p>
+          <p></p>
+          <p></p>
+          <p></p>
+          <p></p>
+          <p></p>
+          <p></p>
+        </div>
       </div>
     );
   }
