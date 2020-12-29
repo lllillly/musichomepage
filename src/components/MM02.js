@@ -8,8 +8,7 @@ class MM02 extends React.Component {
         <div className="MM02__desc">
           <div className="MM02__composer">주요 작곡가</div>
           <div className="MM02__composer__introduce">
-            <p>조스켕 데 프레 (1450 ~ 1521) </p>
-            <p>조반니 피에를루이지 다 팔레스트리나</p>
+            <p>조반니 피에를루이지 다 팔레스트리나 (1525 ~ 1594)</p>
             <p> 클라우디오 몬테베르디 (1567 ~ 1643)</p>
             <p>하인리히 쉬츠 ( 1585 ~ 1672)</p>
             <p>요한 파헬벨 (1653 ~ 1706년)</p>
