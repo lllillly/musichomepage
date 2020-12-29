@@ -1,4 +1,5 @@
 import React from "react";
+import romance from "../img/romance";
 
 class MM04 extends React.Component {
   render() {
