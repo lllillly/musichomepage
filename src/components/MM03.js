@@ -1,5 +1,4 @@
 import React from "react";
-import classic from "../img/classic";
 
 class MM03 extends React.Component {
   render() {

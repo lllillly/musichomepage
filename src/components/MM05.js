@@ -1,5 +1,4 @@
 import React from "react";
-import impress from "../img/impress";
 
 class MM05 extends React.Component {
   render() {

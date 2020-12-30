@@ -1,5 +1,4 @@
 import React from "react";
-import baro from "../img/baro.png";
 
 class MM02 extends React.Component {
   render() {

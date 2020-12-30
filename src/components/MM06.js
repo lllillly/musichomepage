@@ -1,5 +1,4 @@
 import React from "react";
-import mordern from "../img/mordern";
 
 class MM06 extends React.Component {
   render() {

@@ -1,5 +1,4 @@
 import React from "react";
-import rena from "../img/rena.png";
 
 class MM01 extends React.Component {
   render() {
