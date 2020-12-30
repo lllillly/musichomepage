@@ -40,9 +40,13 @@ const MM00Img = [
 
 const useStyles = makeStyles((theme) => ({
   root: {
-    maxWidth: 2000,
-    margin: "10px",
+    maxWidth: 1000,
+    width: "70%",
+    margin: "50px 200px",
     flexGrow: 1,
+    display: "flex",
+    flexDirection: "center",
+    alignItems: "center",
   },
   header: {
     display: "flex",
