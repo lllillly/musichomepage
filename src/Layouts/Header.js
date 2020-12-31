@@ -11,22 +11,22 @@ class Header extends React.Component {
         </Link>
         <div className="Header__01">
           <Link to="/mm01">
-            <span>01</span>
+            <span>르네상스</span>
           </Link>
           <Link to="/mm02">
-            <span>02</span>
+            <span>바로크</span>
           </Link>
           <Link to="/mm03">
-            <span>03</span>
+            <span>고전주의</span>
           </Link>
           <Link to="/mm04">
-            <span>04</span>
+            <span>낭만주의</span>
           </Link>
           <Link to="/mm05">
-            <span>05</span>
+            <span>인상주의</span>
           </Link>
           <Link to="/mm06">
-            <span>06</span>
+            <span>근대,현대</span>
           </Link>
         </div>
       </div>
