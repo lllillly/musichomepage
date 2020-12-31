@@ -38,8 +38,8 @@ const MM00Img = [
 const useStyles = makeStyles((theme) => ({
   root: {
     maxWidth: 1000,
-    width: "70%",
-    margin: "50px 200px",
+    width: "50%",
+    margin: "70px 340px",
     flexGrow: 1,
     display: "flex",
     flexDirection: "center",
@@ -53,7 +53,7 @@ const useStyles = makeStyles((theme) => ({
     backgroundColor: theme.palette.background.default,
   },
   img: {
-    height: "100vh",
+    height: "70vh",
     display: "block",
     maxWidth: 1300,
     overflow: "hidden",
